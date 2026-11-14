@@ -1,0 +1,4 @@
+FOTO DEL HOSPITAL (opcional)
+Si copia aqui una foto con el nombre exacto  hospital.jpg  la pagina de bienvenida la mostrara
+en lugar de la ilustracion. Recomendado: horizontal, minimo 1200 x 800 px.
+Use fotos propias o libres de derechos (por ejemplo de Pexels o Unsplash) y cite la fuente en el documento.
